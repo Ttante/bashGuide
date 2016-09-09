@@ -1,4 +1,9 @@
+myError.txt
+myItems06.txt
 myLs.txt
 script01.sh
 script02.sh
 script03.sh
+script04.sh
+script05.sh
+script06.sh
