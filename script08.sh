@@ -19,3 +19,7 @@ echo 1 + 1
 echo $((1 + 1))
 # OR
 echo $[1 + 1]
+
+# using floats
+# set the scale var and pipe it to the bc program
+echo 'scale=2;3/4' | bc
