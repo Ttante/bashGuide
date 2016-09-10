@@ -11,3 +11,6 @@ for i in `seq 0 5`;
 do
   echo i: $i
 done 
+
+# use the 'exit' command to exit
+exit

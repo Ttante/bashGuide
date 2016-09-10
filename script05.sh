@@ -3,13 +3,19 @@
 # Functions!
 # Make a function like this:
 function sayHelloFunction {
-  echo "Hello"
+  echo Hello
 }
 
 # Call sayHelloFunction
 
 sayHelloFunction
 
+
+function sayThis {
+  echo this: $1
+}
+
+sayThis "Random Words"
 
 # if/else statements
 
